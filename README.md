@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://deepak-portfolio.framer.ai](https://deepak-portfolio.framer.ai)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Il-T-99paaIIee-5piOvyCXpq0i8ofoV/view?usp=drive_link](https://drive.google.com/file/d/1Il-T-99paaIIee-5piOvyCXpq0i8ofoV/view?usp=drive_link)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1Il-T-99paaIIee-5piOvyCXpq0i8ofoV/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
