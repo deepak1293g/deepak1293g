@@ -1,3 +1,72 @@
+<div align="center">
+  <img width="100%" height="300" src="https://github.com/user-attachments/assets/e5029bdd-9a03-4509-9e62-fb3f6c867df2" alt="header"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=555354&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shourya+Saxena;Next.js+Developer+%F0%9F%9A%80;Full+Stack+Wizard+%E2%9C%A8;Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <a href="https://linkedin.com/in/saxena-shourya">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:saxenshourya000@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SaxenaShourya">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="28"/>
+  </a>
+</div>
+
+## 🚀 About Me
+
+<div align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
+
+<div align="center" style="margin-top: 2rem;">
+  <table style="border-radius: 10px; border: 1px solid #ddd; overflow: hidden; background: linear-gradient(145deg, #f6f8fa, #ffffff);">
+    <tr>
+      <td>
+        <h3>💫 Full Stack Expertise</h3>
+        <ul align="left">
+          <li>🌟 Full Stack Developer specializing in <b>MERN Stack</b></li>
+          <li>⚛️ Expert in <b>React.js</b> & <b>Next.js 14</b></li>
+          <li>🎯 Building scalable <b>Node.js</b> backends</li>
+          <li>📊 Working with <b>MongoDB</b> & <b>PostgreSQL</b></li>
+          <li>🔥 Proficient in <b>TypeScript</b> & <b>JavaScript</b></li>
+        </ul>
+      </td>
+      <td>
+        <ul align="left">
+          <li>🚀 <b>Server Components</b> & <b>Server Actions</b></li>
+          <li>💾 <b>Prisma ORM</b> & <b>Database Design</b></li>
+          <li>🌐 <b>REST APIs</b> & <b>GraphQL</b></li>
+          <li>🔐 <b>Auth</b> & <b>Security</b> implementation</li>
+    </tr>
+    <tr>
+      <td>
+        <h3>🛠️ Development Focus</h3>
+        <ul align="left">
+          <li>📱 <b>Responsive</b> & <b>Mobile-First</b> design</li>
+          <li>⚡ <b>Performance optimization</b></li>
+          <li>🎨 <b>TailwindCSS</b> & <b>Framer Motion</b></li>
+          <li>🔄 <b>State Management</b> with Redux & Zustand</li>
+      </td>
+      <td>
+        <h3>🌟 Additional Skills</h3>
+        <ul align="left">
+          <li>☁️ <b>AWS</b> & <b>Vercel</b> deployment</li>
+          <li>🔄 <b>CI/CD</b> workflows</li>
+          <li>📦 <b>Docker</b> containerization</li>
+          <li>📈 <b>Analytics</b> & <b>SEO</b> optimization</li>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # Hi 👋, I'm Deepak 
 
 ### A budding Javascript developer
