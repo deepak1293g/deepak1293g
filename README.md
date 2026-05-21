@@ -10,7 +10,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/deepak1293g" target="_blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
